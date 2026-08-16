@@ -1,6 +1,6 @@
 // Bump this version string every time you deploy changes.
 // Changing it forces old caches to be wiped on the next visit.
-const CACHE_VERSION = 'v16';
+const CACHE_VERSION = 'v17';
 const CACHE_NAME = `naira-calc-${CACHE_VERSION}`;
 
 const FILES_TO_CACHE = [
